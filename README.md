@@ -26,7 +26,7 @@ This project is a list of various icons with 3D effect using pure CSS. This webp
 
 ## 📦 Project Link / Demo  
 (You can access the project demo in the follow link)
-* https://github.com/lucsantosdev/3d-icons
+* [https://github.com/lucsantosdev/3d-icons](https://lucsantosdev.github.io/3d-icons/)
 
 ---
 
